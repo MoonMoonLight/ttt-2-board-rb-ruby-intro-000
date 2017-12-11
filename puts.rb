@@ -4,8 +4,8 @@
 3.times {puts "Biscuits"}
 =end
 
-def stylish_chef
-  best_hairstyle = "Guy Fieri"
-  return "Martha Stewart"
-  "Guy Fieri"
+def change_my_name
+  name = "Frank"
+  puts name.reverse
+  return name
 end
